@@ -355,11 +355,11 @@ const moveXY = async (whereX, whereY, speed = 100) => {
 }
 
 const penUp = async () => {
-	movePen(0,10);
+	await movePen(0,10);
 }
 
 const penDown = async () => {
-	movePen(35,5);
+	await movePen(35,5);
 }
 
 const dot = async () => {

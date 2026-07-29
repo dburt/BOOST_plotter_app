@@ -7,9 +7,6 @@ The app communicates with the LEGO BOOST hub thanks to @nathankellenicki [node-p
 The LEGO BOOST plotter building instructions can be obtained at my website:
 https://robotics.benedettelli.com/lego-boost-image-plotter/
 
-## known bugs:
-- from time to time, the pen goes down and keeps drawing a spurious line until the right edge of the image.
-
 
 
 
